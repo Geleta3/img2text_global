@@ -2,7 +2,7 @@
 Image Captioning - Global CNN attention + Transformer
 
 Image captioning is describing image with text or sentence. Following explosion of deep learning, image captioning has made tremendous improvement. 
-[Karpath](https://arxiv.org/abs/1412.2306) uses global CNN feature as image representation and use RNN as text generation. Following that many researchs
+[Karpath et al.](https://arxiv.org/abs/1412.2306) uses global CNN feature as image representation and use RNN as text generation. Following that many researchs
 have been carried out [[1]](https://arxiv.org/abs/1411.4555) [[2]](https://arxiv.org/abs/1502.03044) and so on.
 
 [Peter Anderson et al.](https://arxiv.org/abs/1707.07998) introduced using the output of image detection or region proposed from region proposal network. 
