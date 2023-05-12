@@ -79,7 +79,7 @@ def get_loader(transform,
             annotations_file = os.path.join(path, 'annotation', 'annotations', 'image_info_test2014.json')
         else:
             # From Specific folder.
-            # print("from Specific folder")
+  
             img_folder = os.path.join(path)
             annotations_file = os.listdir(img_folder)
 
