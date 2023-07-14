@@ -19,7 +19,7 @@ This repository combines the following algorithms for image captioning training 
 
 The architecture looks like this:
 
-![Model](model-5.png)
+![Model](model/model-5.png)
 
 To download the dataset visit [here](https://cocodataset.org/#download)
 
